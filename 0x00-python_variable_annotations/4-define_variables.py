@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-'''ariables with the specified values'''
+"""ariables with the specified values"""
+
 
 a: int = 1
 pi: float = 3.14
